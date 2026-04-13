@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CityFix
 
 ## 🌍 ODS Escolhido
@@ -20,3 +21,7 @@ Sistema web com arquitetura frontend + backend (API RESTful)
 
 ## 📅 Planejamento
 No TP2 será definido o modelo arquitetural (C4), tecnologias finais e estrutura do sistema.
+=======
+# projeto-ods
+Muitas cidades enfrentam dificuldades na comunicação entre população e órgãos públicos. Problemas como lixo acumulado, iluminação precária e buracos nas vias nem sempre são reportados de forma eficiente, causando impactos na qualidade de vida urbana.
+>>>>>>> 005506cd10399b504ecea803e808e6242b907d47
