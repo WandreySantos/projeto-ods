@@ -1,5 +1,0 @@
-com\cityfix\controller\DenunciaController.class
-com\cityfix\CityfixApplication.class
-com\cityfix\entity\Denuncia.class
-com\cityfix\repository\DenunciaRepository.class
-com\cityfix\service\DenunciaService.class
